@@ -3,4 +3,3 @@
 2.HTML5, CSS3, SASS(SCSS), jQuery - Used here;
 3.[DEMO LINK](https://Oleksii25.github.io/Dia-air-landing/).
 4.[Layout](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=0%3A1)
-
